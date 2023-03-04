@@ -68,7 +68,7 @@ h2 {
     font-weight: 500;
     text-align: center;
     font-size: 50px;
-    padding-bottom: 60px;
+    padding-bottom: 40px;
 }
 
 #ultimate {
@@ -224,8 +224,13 @@ a {
 .shop_text {
     text-align: center;
     color: #FEFAE0; 
-    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
     font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
     background: rgba(40, 54, 24, 1);
 
 }
