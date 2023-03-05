@@ -5,3 +5,5 @@ I coded the web store in HTML and CSS, as I wanted to practice everything I had 
 
 Within this project, I also wanted to show my ability to successfully use CSS to build an acceptable site aesthetically.
 
+To check out the website in action:
+https://twitter.com/Pybeancoder/status/1632178442409000960?s=20
